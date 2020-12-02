@@ -7,7 +7,7 @@ bot.on("message", (message) =>{
     const mentionedMembersCollection = message.mentions.members;
     const linux = mentionedMembersCollection.get("540140204909002752");
     if(mentionedMembersCollection.has('540140204909002752') || mentionedMembersCollection.has(bot.user.id)){
-        message.reply(` Master ${linux} will catch up with you asap!`);
+        message.reply(`${linux} will catch up with you asap!`);
     }
 });
 
