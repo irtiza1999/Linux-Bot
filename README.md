@@ -1,5 +1,5 @@
 # **Linux bot**
-Linux bot is a discord bot which reply when someone me in my discord server.
+Linux bot is a discord bot which automatically replies when someone messages me in inbox and also in my server.
 <br />
 ---
 
